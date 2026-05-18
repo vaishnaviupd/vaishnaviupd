@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vaishnaviupd
+- 👋 Hi, I’m Vaishnavi Upadhyay
 - 👀 I’m interested in ...Geopolitics, Business Analytics and Mystery Novels
-- 🌱 I’m currently learning ...Python, SQL
-- 📫 How to reach me ... vaishnaviupd1@gmail.com
+- 🌱 I’m currently learning to scale SaaS business model, AEO, GEO, and trying to understand AI Visibility
+- 📫 How to reach me ... vaishnaviupd3@gmail.com
 
 
 <!---
